@@ -1,6 +1,8 @@
 """
 License: Apache
 Organization: UNIR
+user: Miguel Angel Santiago Salgado
+Master: DevOps
 """
 
 import os
